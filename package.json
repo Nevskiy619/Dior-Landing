@@ -1,0 +1,16 @@
+{
+  "name": "dior",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://Nevskiy619.github.io/Dior-Landing",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
