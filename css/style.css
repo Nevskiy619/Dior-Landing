@@ -329,6 +329,10 @@ button {
   display: block;
 }
 
+.accordeon__item--active img {
+  transform: rotate(180deg);
+}
+
 /* Products section */
 
 .products {
